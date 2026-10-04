@@ -99,4 +99,4 @@ pandas · scikit-learn · SHAP · FastAPI · Docker · pytest · Optuna
 
 ## 👤 Автор
 
-Ваше Имя · LinkedIn: https://linkedin.com/in/USERNAME · GitHub: https://github.com/USERNAME
+Никита Драбудько · GitHub: https://github.com/mlchampion4
