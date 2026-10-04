@@ -1,0 +1,20 @@
+{
+  "model": "LogisticRegression",
+  "version": "1.0",
+  "trained_at": "2026-10-04T23:58:43.568197",
+  "reason": "Лучший test ROC-AUC + минимальный gap + статистически не отличается от бустингов",
+  "metrics": {
+    "train_roc_auc": 0.8530293860262241,
+    "test_roc_auc": 0.8475599989666486,
+    "gap": 0.005469387059575559,
+    "test_pr_auc": 0.6613672736316604,
+    "cv_roc_auc_mean": 0.8480431229845493,
+    "cv_roc_auc_std": 0.011240580290704853
+  },
+  "optimal_threshold": 0.32,
+  "hyperparams": {
+    "class_weight": "balanced",
+    "max_iter": 1000,
+    "random_state": 42
+  }
+}
